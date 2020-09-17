@@ -11,5 +11,7 @@ public class PruebaControlador {
 	public String VistaPrueba() {
 		return "Prueba";
 	}
+	
+	
 
 }
