@@ -3,5 +3,3 @@ script: mvn clean test
 jdk:
   - oraclejdk11
   
-  notifications:
-      - email: false
