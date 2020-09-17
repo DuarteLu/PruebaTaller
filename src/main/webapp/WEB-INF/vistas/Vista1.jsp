@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Hola soy vista 1</p>
+<p> La variable es :${Persona.nombre}</p>
+<p> la edad es :${Persona.edad}</p>
 </body>
 </html>
